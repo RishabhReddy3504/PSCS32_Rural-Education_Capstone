@@ -1,1 +1,1 @@
-# PSCS32_Rural-Education_Capstone
+# CAI_24_Rural-Education_Capstone
